@@ -1,0 +1,2 @@
+# SharedProps
+Shared properties!
